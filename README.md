@@ -1,2 +1,2 @@
 # Uni-work
-Simple assignments / projects for university
+Academic projects and simple assignments.
